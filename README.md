@@ -26,3 +26,7 @@ cd project-name
 ```sh
 npm run dev
 ```
+
+### Sample
+![image](https://github.com/user-attachments/assets/88a69bfe-a3bf-4eb3-b4e9-369cddb56d53)
+![image](https://github.com/user-attachments/assets/437de114-db94-440f-a996-da8b2fc92b20)
